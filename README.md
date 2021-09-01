@@ -16,7 +16,7 @@ Outcomes based on goals shows that funding with less than $5000 is higher chance
 ![This is an image](https://github.com/NadaAdem/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
-I find it challenge to group column to show the months of the year when analysis  outcome based on launch date. Besides, Analysis of Outcomes Based on Goals will was difficulties to add the goal-amount ranges on the x-axis
+I find it challenge to group column to show the months of the year when analysis  outcome based on launch date. Besides, Analysis of outcomes based on goals will was difficulties to add the goal-amount ranges on the x-axis
 
 ## Results
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
