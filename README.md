@@ -11,7 +11,7 @@ Louise’s want start crowdfunding campaign to help fund her play “Fever”. S
  ![This is an image](https://github.com/NadaAdem/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
  
 ### Analysis of Outcomes Based on Goals
-Outcomes based on goals shows that funding with less than 5000$ is higher chance for outcome to success than funding with more than 5000$ . Besides, funding with more than 45000 is higher chance for outcome to fail.
+Outcomes based on goals shows that funding with less than $5000 is higher chance for outcome to success than funding with more than $5000 . Besides, funding with more than $45000 is higher chance for outcome to fail.
 
 ![This is an image](https://github.com/NadaAdem/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
