@@ -27,4 +27,4 @@ I find it challenge to group column to show the months of the year when analysis
 - What are some limitations of this dataset?
     - Data hasn’t any data of outcome with canceled result for play category in theater.
 - What are some other possible tables and/or graphs that we could create?
-   - From analysis of outcomes based on launch date, we can create graph with  filter using last five years to compare it with our graph .
+   - From analysis of Outcomes based on launch date, we can create graph with  filter using last five years to compare it with our graph .
