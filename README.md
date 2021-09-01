@@ -10,7 +10,7 @@ Louise’s want start crowdfunding campaign to help fund her play “Fever”. S
 ### Analysis of Outcomes Based on Goals
 Outcomes based on goals shows that funding with less than 5000$ is higher chance for outcome to success than more than 5000$. Besides, funding with more than 45000 is higher chance for outcome to fail.
 ### Challenges and Difficulties Encountered
-    I find it challenge to group column to show the months of the year when analysis  outcome based on launch date. Besides, Analysis of Outcomes Based on Goals will was difficulties to add the goal-amount ranges on the x-axis
+I find it challenge to group column to show the months of the year when analysis  outcome based on launch date. Besides, Analysis of Outcomes Based on Goals will was difficulties to add the goal-amount ranges on the x-axis
 
 ## Results
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
