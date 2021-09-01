@@ -2,7 +2,7 @@
 
 ## Overview of Project
 ### Purpose
-Louise’s want start crowdfunding campaign to help fund her play “Fever”. She is estimating budget of over $10,000. Through analyze help her gain understanding   of campaign from start to finish and visualize other successful one in same category (theater).The purpose of this analyze is to compare and visualize on outcome of other campaign based on their launch dates and their funding goals.
+Louise’s want start crowdfunding campaign to help fund her play “Fever”. She is estimating budget of over $10,000. Through analyze help her gain understanding of others  campaign. The purpose of this analyze is to compare and visualize on outcome of other campaign based on their launch dates and their funding goals and also show her  other successful one in same category (theater).
 
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date
