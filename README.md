@@ -1,4 +1,4 @@
-# Kickstarting with Excel
+# Startup business with Excel
 
 ## Overview of Project
 ### Purpose
